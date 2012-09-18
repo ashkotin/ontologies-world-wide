@@ -1,4 +1,4 @@
 ontologies-world-wide
 =====================
 
-To keep intersting formal knowledge together
+To keep interesting formal knowledge together
